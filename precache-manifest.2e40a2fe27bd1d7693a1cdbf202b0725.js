@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4bbd901343cb12d4d0100447c4010df",
+    "revision": "657357b0d5d6063ec408011c636d98a5",
     "url": "/wp-homework/index.html"
   },
   {
-    "revision": "af27b39189f76032eb01",
+    "revision": "860303fff277197e9cdd",
     "url": "/wp-homework/static/css/2.53823a3d.chunk.css"
   },
   {
-    "revision": "423a3e195f5c2593c673",
+    "revision": "7d0af21abffd7117e43d",
     "url": "/wp-homework/static/css/main.2c192f8f.chunk.css"
   },
   {
-    "revision": "af27b39189f76032eb01",
-    "url": "/wp-homework/static/js/2.c24f934d.chunk.js"
+    "revision": "860303fff277197e9cdd",
+    "url": "/wp-homework/static/js/2.4492bc49.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/wp-homework/static/js/2.c24f934d.chunk.js.LICENSE.txt"
+    "url": "/wp-homework/static/js/2.4492bc49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "423a3e195f5c2593c673",
-    "url": "/wp-homework/static/js/main.7786720c.chunk.js"
+    "revision": "7d0af21abffd7117e43d",
+    "url": "/wp-homework/static/js/main.27839182.chunk.js"
   },
   {
     "revision": "566836b061ac81724e17",
     "url": "/wp-homework/static/js/runtime-main.d4d94e8e.js"
+  },
+  {
+    "revision": "f5012122fabf89f029af48ef6714a6ce",
+    "url": "/wp-homework/static/media/aditional.f5012122.png"
   },
   {
     "revision": "b6d22a271e0059a64fe22085d821c33f",
