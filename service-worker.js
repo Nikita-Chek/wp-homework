@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wp-homework/precache-manifest.57240a3cc1eb05db7feebebe47286a4f.js"
+  "/wp-homework/precache-manifest.d51f3b0aa04869338569e1321db4bcd4.js"
 );
 
 self.addEventListener('message', (event) => {
