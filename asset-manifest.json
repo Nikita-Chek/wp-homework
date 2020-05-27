@@ -1,32 +1,22 @@
 {
   "files": {
-    "main.css": "/wp-homework/static/css/main.2c192f8f.chunk.css",
-    "main.js": "/wp-homework/static/js/main.58580c65.chunk.js",
-    "main.js.map": "/wp-homework/static/js/main.58580c65.chunk.js.map",
-    "runtime-main.js": "/wp-homework/static/js/runtime-main.d4d94e8e.js",
-    "runtime-main.js.map": "/wp-homework/static/js/runtime-main.d4d94e8e.js.map",
-    "static/css/2.53823a3d.chunk.css": "/wp-homework/static/css/2.53823a3d.chunk.css",
-    "static/js/2.efa3b4e3.chunk.js": "/wp-homework/static/js/2.efa3b4e3.chunk.js",
-    "static/js/2.efa3b4e3.chunk.js.map": "/wp-homework/static/js/2.efa3b4e3.chunk.js.map",
+    "main.css": "/wp-homework/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/wp-homework/static/js/main.e75137a1.chunk.js",
+    "main.js.map": "/wp-homework/static/js/main.e75137a1.chunk.js.map",
+    "runtime-main.js": "/wp-homework/static/js/runtime-main.56eb9d14.js",
+    "runtime-main.js.map": "/wp-homework/static/js/runtime-main.56eb9d14.js.map",
+    "static/js/2.244c9beb.chunk.js": "/wp-homework/static/js/2.244c9beb.chunk.js",
+    "static/js/2.244c9beb.chunk.js.map": "/wp-homework/static/js/2.244c9beb.chunk.js.map",
     "index.html": "/wp-homework/index.html",
-    "precache-manifest.b6c02290e6eb88e4168405223ebf6d14.js": "/wp-homework/precache-manifest.b6c02290e6eb88e4168405223ebf6d14.js",
+    "precache-manifest.8373f6849de726592cffd94cea021196.js": "/wp-homework/precache-manifest.8373f6849de726592cffd94cea021196.js",
     "service-worker.js": "/wp-homework/service-worker.js",
-    "static/css/2.53823a3d.chunk.css.map": "/wp-homework/static/css/2.53823a3d.chunk.css.map",
-    "static/css/main.2c192f8f.chunk.css.map": "/wp-homework/static/css/main.2c192f8f.chunk.css.map",
-    "static/js/2.efa3b4e3.chunk.js.LICENSE.txt": "/wp-homework/static/js/2.efa3b4e3.chunk.js.LICENSE.txt",
-    "static/media/aditional.png": "/wp-homework/static/media/aditional.f5012122.png",
-    "static/media/bsu.png": "/wp-homework/static/media/bsu.b6d22a27.png",
-    "static/media/email.png": "/wp-homework/static/media/email.f4b5d02d.png",
-    "static/media/location.png": "/wp-homework/static/media/location.ab4e82ef.png",
-    "static/media/logo.png": "/wp-homework/static/media/logo.b7dd8d74.png",
-    "static/media/phone.png": "/wp-homework/static/media/phone.fded134b.png",
-    "static/media/search.png": "/wp-homework/static/media/search.8b7d6053.png"
+    "static/css/main.5ecd60fb.chunk.css.map": "/wp-homework/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.244c9beb.chunk.js.LICENSE.txt": "/wp-homework/static/js/2.244c9beb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4d94e8e.js",
-    "static/css/2.53823a3d.chunk.css",
-    "static/js/2.efa3b4e3.chunk.js",
-    "static/css/main.2c192f8f.chunk.css",
-    "static/js/main.58580c65.chunk.js"
+    "static/js/runtime-main.56eb9d14.js",
+    "static/js/2.244c9beb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e75137a1.chunk.js"
   ]
 }
