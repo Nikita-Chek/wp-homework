@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wp-homework/static/css/main.0fa1cafa.chunk.css",
-    "main.js": "/wp-homework/static/js/main.a20c4780.chunk.js",
-    "main.js.map": "/wp-homework/static/js/main.a20c4780.chunk.js.map",
+    "main.js": "/wp-homework/static/js/main.ba2e1644.chunk.js",
+    "main.js.map": "/wp-homework/static/js/main.ba2e1644.chunk.js.map",
     "runtime-main.js": "/wp-homework/static/js/runtime-main.d4d94e8e.js",
     "runtime-main.js.map": "/wp-homework/static/js/runtime-main.d4d94e8e.js.map",
     "static/css/2.53823a3d.chunk.css": "/wp-homework/static/css/2.53823a3d.chunk.css",
     "static/js/2.3e21eb2a.chunk.js": "/wp-homework/static/js/2.3e21eb2a.chunk.js",
     "static/js/2.3e21eb2a.chunk.js.map": "/wp-homework/static/js/2.3e21eb2a.chunk.js.map",
     "index.html": "/wp-homework/index.html",
-    "precache-manifest.1c42e35d2f76b9e367c6dfa75f9c4d3b.js": "/wp-homework/precache-manifest.1c42e35d2f76b9e367c6dfa75f9c4d3b.js",
+    "precache-manifest.7c370575cb622fb1711308c427e9c7d4.js": "/wp-homework/precache-manifest.7c370575cb622fb1711308c427e9c7d4.js",
     "service-worker.js": "/wp-homework/service-worker.js",
     "static/css/2.53823a3d.chunk.css.map": "/wp-homework/static/css/2.53823a3d.chunk.css.map",
     "static/css/main.0fa1cafa.chunk.css.map": "/wp-homework/static/css/main.0fa1cafa.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.53823a3d.chunk.css",
     "static/js/2.3e21eb2a.chunk.js",
     "static/css/main.0fa1cafa.chunk.css",
-    "static/js/main.a20c4780.chunk.js"
+    "static/js/main.ba2e1644.chunk.js"
   ]
 }
