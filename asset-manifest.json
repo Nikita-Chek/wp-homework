@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wp-homework/static/css/main.2c192f8f.chunk.css",
-    "main.js": "/wp-homework/static/js/main.dd82e9c4.chunk.js",
-    "main.js.map": "/wp-homework/static/js/main.dd82e9c4.chunk.js.map",
+    "main.css": "/wp-homework/static/css/main.0fa1cafa.chunk.css",
+    "main.js": "/wp-homework/static/js/main.1ed2e412.chunk.js",
+    "main.js.map": "/wp-homework/static/js/main.1ed2e412.chunk.js.map",
     "runtime-main.js": "/wp-homework/static/js/runtime-main.d4d94e8e.js",
     "runtime-main.js.map": "/wp-homework/static/js/runtime-main.d4d94e8e.js.map",
     "static/css/2.53823a3d.chunk.css": "/wp-homework/static/css/2.53823a3d.chunk.css",
-    "static/js/2.bfb62d8b.chunk.js": "/wp-homework/static/js/2.bfb62d8b.chunk.js",
-    "static/js/2.bfb62d8b.chunk.js.map": "/wp-homework/static/js/2.bfb62d8b.chunk.js.map",
+    "static/js/2.3e21eb2a.chunk.js": "/wp-homework/static/js/2.3e21eb2a.chunk.js",
+    "static/js/2.3e21eb2a.chunk.js.map": "/wp-homework/static/js/2.3e21eb2a.chunk.js.map",
     "index.html": "/wp-homework/index.html",
-    "precache-manifest.525b7dfc5fb4eb03dbbe9a2e6ef56560.js": "/wp-homework/precache-manifest.525b7dfc5fb4eb03dbbe9a2e6ef56560.js",
+    "precache-manifest.81e3870654e3ee1aac60f8808ffb0e24.js": "/wp-homework/precache-manifest.81e3870654e3ee1aac60f8808ffb0e24.js",
     "service-worker.js": "/wp-homework/service-worker.js",
     "static/css/2.53823a3d.chunk.css.map": "/wp-homework/static/css/2.53823a3d.chunk.css.map",
-    "static/css/main.2c192f8f.chunk.css.map": "/wp-homework/static/css/main.2c192f8f.chunk.css.map",
-    "static/js/2.bfb62d8b.chunk.js.LICENSE.txt": "/wp-homework/static/js/2.bfb62d8b.chunk.js.LICENSE.txt",
+    "static/css/main.0fa1cafa.chunk.css.map": "/wp-homework/static/css/main.0fa1cafa.chunk.css.map",
+    "static/js/2.3e21eb2a.chunk.js.LICENSE.txt": "/wp-homework/static/js/2.3e21eb2a.chunk.js.LICENSE.txt",
     "static/media/aditional.png": "/wp-homework/static/media/aditional.f5012122.png",
     "static/media/bsu.png": "/wp-homework/static/media/bsu.b6d22a27.png",
     "static/media/email.png": "/wp-homework/static/media/email.f4b5d02d.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.d4d94e8e.js",
     "static/css/2.53823a3d.chunk.css",
-    "static/js/2.bfb62d8b.chunk.js",
-    "static/css/main.2c192f8f.chunk.css",
-    "static/js/main.dd82e9c4.chunk.js"
+    "static/js/2.3e21eb2a.chunk.js",
+    "static/css/main.0fa1cafa.chunk.css",
+    "static/js/main.1ed2e412.chunk.js"
   ]
 }
